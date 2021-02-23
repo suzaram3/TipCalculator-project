@@ -1,10 +1,10 @@
 # TipCalculator-project
 
-## DUE: 18 Feb 2020
+## DUE: 4 Mar 2021
 
 ## Instructions:
 
-Create an app that takes an input for an amount, an input for number of people spliting the check, a series of radio buttons for pre-determined tip amounts with the last radio button allowing for custom tip ammount, a button to reset the values, and a button to calculate the tip and total amount. The amounts (tip, total, and total per person) must be displayed as a **TextView**. All values must retain its state when the phone is rotated between portrait and landscape modes or any other instances where the app cycles through the activity lifecycle. There should be no values, such as strings, dimensions, etc. hardcoded in the .java files. They should be maintained and accessed from the appropriate resource files. An error message should be displayed to the user if they try to input a bill amount less than $1, total people less than 1, or a tip percentage less than 1%. The code to display an error message is provided in this README.
+Create an app that takes an input for an amount, an input for number of people spliting the check, a series of radio buttons for pre-determined tip amounts with the last radio button allowing for custom tip ammount, a button to reset the values, and a button to calculate the tip and total amount. The amounts (tip, total, and total per person) must be displayed as a **TextView**. All values must retain its state when the phone is rotated between portrait and landscape modes or any other instances where the app cycles through the activity lifecycle. There should be no values, such as strings, dimensions, etc. hardcoded in the .java files. They should be maintained and accessed from the appropriate resource files. An error message should be displayed to the user if they try to input a bill amount less than $1, total people less than 1, or a tip percentage less than 1%. Wow factor code to display an error message is provided in this README.
 
 ## Error Message Code:
       Shows the error message in an alert dialog
@@ -64,15 +64,16 @@ Create an app that takes an input for an amount, an input for number of people s
 Feel free to use any Layout you want. ConstrainLayout is a good option, but you may want to experiment with others, such as LinearLayout or TableLayout.
 
 ### TODO:
-1. Open Android Studio and create an Android project named TipCalculator-counter.
+1. Open Android Studio and create an Android project named TipCalculator-\<Your Last Name\>.
 2. Edit .gitignore file and put the neccessary file names that do not belong in GitHub.
-3. Create a README.md and put '\#README' in it.
-4. VCS -> Import into Version Control -> Share Project on GitHub. Use 'Initial Commit' as commit message.
-5. Verify files were uploaded to your GitHub account.
+3. Initialize project as a Git repoistory.
+4. Fork this project into your Github account and copy the clone link.
+5. Run the git remote add command to link your project to the Github repository.
+6. Perform a git pull origin master command to pull the README and sync the repos.
+7. Add,Commmit, and Push your initial files.
+8. Verify files were uploaded to your GitHub account.
 6. Complete the project.
-7. Commit and Push your completed project code to GitHub.
-8. Print out any source and resource files (in a readable manner) along with screenshots of app working to hand in. Highlight your WOW factors if you have any.
- 
+7. Commit and Push your completed project code to GitHub. 
  
  ### Grading:
  
