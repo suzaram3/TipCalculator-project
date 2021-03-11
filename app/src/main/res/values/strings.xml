@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TipCalculator-Suzara</string>
+    <string name="fifteen_percent">15%</string>
+    <string name="twenty_percent">20%</string>
+    <string name="twenty_five_percent">25%</string>
+    <string name="calculate_tip">Calculate</string>
+    <string name="check_amount">Check Amount</string>
+    <string name="close">Close</string>
+    <string name="custom_tip">Custom Tip</string>
+    <string name="dollar">$</string>
+    <string name="edit_tip">Enter Tip</string>
+    <string name="error">Field cannot be empty</string>
+    <string name="errorBillAmount">Bill amount must be greater than 1</string>
+    <string name="errorSplit">Number of checks must be greater than 1</string>
+    <string name="errorTip">Are you really going to stiff this person?</string>
+    <string name="num_people">Number Of People</string>
+    <string name="tipPerPerson">Total Per Person</string>
+    <string name="reset">Reset</string>
+    <string name="resultTip">result tip</string>
+    <string name="bill">Bill: %1$s</string>
+    <string name="breakdown">Breakdown</string>
+    <string name="tip_total">Tip Total: %1$s</string>
+    <string name="tip_per_person">"Tip Per Person: %1$s"</string>
+    <string name="total_per_person">"Total Per Person: %1$s"</string>
+</resources>
